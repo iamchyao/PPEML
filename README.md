@@ -18,6 +18,8 @@ You can install the required dependencies with the following code.
 
 All the datasets in this work are from folders [here] Data.
 
+## Run Code
+For example, go to the potential folder and run the command [here] python Concentration_training_prediction.py
 
 ## Citation
 
